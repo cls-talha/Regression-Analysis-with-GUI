@@ -1,0 +1,7 @@
+ Trained-Params{
+
+ "Weights" :  0.044161
+
+ "Bias" :        -88.063755
+
+ }
