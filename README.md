@@ -1,7 +1,7 @@
 # Project Name: Regression Analysis 
 
 * In this project we use statistics to do Regression Analysis by fitting best fit line (y=mx + c) into data.
-* If you want to know more about you can refer to my [Urdu blog](https://www.freecodecamp.org/urdu/news/linear-regression-pytorch-urdu-1-3/) 
+* If you want to know more about you can refer to my [Urdu Blog](https://www.freecodecamp.org/urdu/news/linear-regression-pytorch-urdu-1-3/) 
 ## Usage
 
 * You can Directly Execute this project by clicking on "Forms.exe" which is Present in root directory
@@ -11,7 +11,8 @@
 * Muhammad Awaiz 
 * Danyal Fahim
 * Bilal Abid
-
+## Google Drive Line
+* You can also access this whole project from my Google Drive [Here](https://drive.google.com/drive/folders/1YJqHsRhvGPhq657K_2kYXLKi8y7d1zhK?usp=share_link)
 ## Contributing
 If you want to increase the accuracy you can FORK this project and make it more saxi :)
 
