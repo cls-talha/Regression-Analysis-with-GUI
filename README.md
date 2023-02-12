@@ -30,5 +30,5 @@
 If you want to increase the accuracy you can FORK this project and make it more saxi :)
 
 ## License
-
+- I Dont Give a Fuck about license you can do whatever you want with this project 😉
 [GPL-v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
